@@ -1,2 +1,2 @@
 # IITGPhysiotherapy-Project
-Created an android app for IIT students and physiotherapists for making appointments in the IITG Hospital
+Created an android app for IITG students and physiotherapists for making appointments in the IITG Hospital
